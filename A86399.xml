@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the life and death of Hugh Peters that arch-traytor, from his cradell to the gallowes. With a map of his prophane jests, cruell actions, and wicked counsels. Published as a warning piece to all traytors. At the time of our late Sacred Kings tryall, this was the villains text to animate their Roman president &amp; the jeshish court for the speedy horrid murder. Bind your kings in chaines or iron and your nobles in fetters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86399</idno>
+            <idno type="STC">Wing H2167</idno>
+            <idno type="STC">Thomason E1055_2</idno>
+            <idno type="STC">ESTC R207990</idno>
+            <idno type="EEBO-CITATION">99866998</idno>
+            <idno type="PROQUEST">99866998</idno>
+            <idno type="VID">119288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119288)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the life and death of Hugh Peters that arch-traytor, from his cradell to the gallowes. With a map of his prophane jests, cruell actions, and wicked counsels. Published as a warning piece to all traytors. At the time of our late Sacred Kings tryall, this was the villains text to animate their Roman president &amp; the jeshish court for the speedy horrid murder. Bind your kings in chaines or iron and your nobles in fetters.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Fr. Coles, at the Lambe in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut; repeated on verso of final leaf.</note>
+                  <note>Annotation on Thomason copy: "Jan: 3d. 1660. "; the second 1 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>The words: 'At the time . . . horrid Murder.' are enclosed in square brackets.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660 --  Early works to 1800.</term>
+               <term>Execution and executioners --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119288:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <p>The Hiſtory of the Life and Death of <hi>Hugh Peters</hi> that Arch-traytor, from his Cradell to the Gallowes.</p>
+            <p>WITH A Map of his prophane Jeſts, cruell Actions, and wicked Counſels.</p>
+            <p>Publiſhed as a Warning piece to all Traytors.</p>
+            <p>[At the time of our late Sacred Kings tryall, this was the villains Text to ani<g ref="char:EOLhyphen"/>mate their Roman preſident &amp; the Jeſhiſh Court for the ſpeedy horrid Murder.]</p>
+            <q>Bind your Kings in chaines of Iron and your Nobles in fetters.</q>
+            <figure>
+               <p>Behold his Reward</p>
+               <figDesc>the hanging of Hugh Peters</figDesc>
+            </figure>
+            <p>
+               <add>Jan: 3<hi rend="sup">d</hi>.</add> LONDON, Printed for <hi>Fr. Coles,</hi> at the Lambe in the Old-Baily, 1661. <add>Jan. 3. 1660</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:119288:2"/>
+            <!-- PDF PAGE 10 -->
+            <pb n="1" facs="tcp:119288:2"/>
+            <!-- PDF PAGE 10 -->
+            <head>The Hiſtory of the Life and Death of <hi>Hugh Peters</hi> that Arch-Traytor, with a Map of his erronious Actions, &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. 1.</hi> Of <hi>Hugh Peters</hi> his Birth and Education.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">H</seg>
+                     <g ref="char:V">Ʋ</g>gh Peters</hi> was borne in <hi>Cornwall,</hi> in a little Village named <hi>Sudbury,</hi> not farre from <hi>Launſon;</hi> his Fathers name was <hi>Edward Peeters,</hi> by trade a Dyer of Stuffes, but counted a man of good repute and civell behaviour, and gave his Son <hi>Hugh</hi> what Education hee could, as did belong to a Father; hee was as the ancientry of the Countrey doth report, bred up ſix yeares in the free Schoole of <hi>Launſon,</hi> after which being fourd very prone and pregnant to Learning.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. 2.</hi> Of <hi>Hugh Peters</hi> going to <hi>Oxford,</hi> and Inveſted in <hi>Brazen-Nos'd</hi> Colledge, and all his Prancks play'd there during his time.</head>
+               <p>HEe was from thence transferr'd to <hi>Oxford,</hi> and there inveſted in <hi>Brazen-Nos'd</hi> Colledge, during
+<pb n="2" facs="tcp:119288:3"/>
+                  <!-- PDF PAGE 11 -->which time he was alwaies given to Scoffs, Ieſts and jeering; yet he took Learning in abundance, for all that hee was not much reſpected; for the Schollers deſpis'd him, the Proctors did not care for him, none very well loved him, hee carried the faireſt Tongue of moſt men, but the diſſemblingeſt heart of all men; hee would promiſe as faire as any one ſhould, and performe as little as any one alive; he was a man never given to the vice of Swearing, yet hee would Lie moſt intollerable, he was never of no Magnanimous Spirit, he would fight with no one in open armes, but they muſt beware of him of a pri<g ref="char:EOLhyphen"/>vate miſchiefe; As to inſtance, hee once ſeduced a company of Schollers to goe foure miles out of the Towne to a Parke of the Kings intending to ſteale ſome Deere, and there he began firſt to be a Thiefe and a Traytor againſt his King and Soveraigne, but marke the ſtory and you ſhall heare what a notori<g ref="char:EOLhyphen"/>ous piece of Villanie this young <hi>Iudas</hi> did invent being but tender like a Cockatrice Egge, even to betray the innocent Beaſts of the Parke; It chanc't the Moone did ſhine when hee and his gang were with drawne over into the Parke, and the Keepers walking the Round and ranging about, perceived them armed with Gunnes and Croſ-bowes, and they with Foreſt Bills encountred with them and defeated them, purſuing them quite to the Townes end, but then fearing ſome other aſſiſtance retired backe to the Parke againe till next morning, and then came to <hi>Oxford</hi> and enquired after theſe Deere killers; faith
+<pb n="3" facs="tcp:119288:3"/>
+                  <!-- PDF PAGE 11 -->thoſe of his Company were faine to abſent the Col<g ref="char:EOLhyphen"/>ledge, quit the Towne and be gone; So there hee wrought their Ruine and deſtruction in the firſt place; for in regard they durſt not make appearance in the Colledge; ſome took to the High way by wch means they were Hang'd; but accoding to the old Proverb, <hi>The verieſt Thiefe ſcapes best.</hi> For the crafty Fox and Ring-leader himſelfe, was neither diſcovered, taxed, nor ſuſpected, yet obſerve the malice and treachery of this <hi>Iudas,</hi> a weeke after following hee goes and buyes a pecke of Apples, and cuts off the top next the ſtalke of every one, picks out the Core, put in Ratſ<g ref="char:EOLhyphen"/>bane and ſtopt them up againe with the ſame pieces; obſerving that Deere doth love Apples exceſſively, he caries one evening to the ſame Parke, and throws them about for the Innocent beaſts, wherby ſeverall of them were poyſoned to death. Thus did hee vent his Malli<g ref="char:EOLhyphen"/>cious poyſon againſt man and Beaſt; You'l ſay 'twas enough to deſerve hanging but his time was not come.</p>
+               <p>But a Thiefe and a Traytor he was from the begin<g ref="char:EOLhyphen"/>ning: But to proceed hee had not beene paſſing the ſpace of three yeares in this Colledge; Tell this un<g ref="char:EOLhyphen"/>paralleld fact was Committed; for by his craft and cloſe concealing mind, hee kept it private and unknowne two yeares longer; which time being expi<g ref="char:EOLhyphen"/>red, it thus came out. He and ſome others being in a Taverne: The Wind wrought ſtrong began a diſ<g ref="char:EOLhyphen"/>courſe in this manner. Said one, as I was once com<g ref="char:EOLhyphen"/>ming over a Parke being rutting time I was like to be
+<pb n="4" facs="tcp:119288:4"/>
+                  <!-- PDF PAGE 12 -->ſpoyl'd with a Bucke; But I thinke I met with him: For I broke his Heape-bone with a Piſtall bul<g ref="char:EOLhyphen"/>let. Why introth ſaid <hi>Peeters,</hi> and I receiv'd and a<g ref="char:EOLhyphen"/>buſe once by two Keepers, but I thinke his Sweet meat had but Sowre ſawce: For in eating the Fruit which I preſented there fell more in one Night, then in the Garden of Eden in a whole Yeare.</p>
+               <p>Why ſaid the other, <hi>Adam</hi> was not there, ſaid <hi>Peeters</hi> againe, that doth not argue the Serpent was not there.</p>
+               <p>Whereupon Notice being taken by one who was not his Cordiall friend: So that the Colledge came to heare of it.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. 3.</hi> How <hi>Peeters</hi> was cal'd before the Proctors of the Schoole with his Accuſation, for killing and poyſoning Deere; For which hee was expel'd the Colledge.</head>
+               <p>HOw <hi>Peeters</hi> was call'd before the Bench, taxt upon't, but ſtoutly deny'd it; Inſomuch that one of the Proctors told him he was a Brazen-fac'-Fellow: He anſwered then he learn'd it in <hi>Brazen no<g ref="char:EOLhyphen"/>ſed Colledge,</hi> upon which he was preſently expel'd, <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> then being too hot for him, hee haſted away to <hi>Woodſtock,</hi> at which place there lay a <hi>Biſhop;</hi> to whom he made his Addreſſe for an Ordination to Preach, but went away without his <hi>Errand.</hi>
+               </p>
+               <p>Thus having not obtain'd his Requeſt, rather then ſtand Idly Hee made bold of himſelfe; And there<g ref="char:EOLhyphen"/>upon
+<pb n="5" facs="tcp:119288:4"/>
+                  <!-- PDF PAGE 12 -->inſinuated with one <hi>Perſon</hi> then another <hi>Perſon,</hi> one Sermon <hi>here</hi> and another <hi>there:</hi> Telling the Igno<g ref="char:EOLhyphen"/>rant people, <hi>Doomes day was come,</hi> and the Dayes they lived in were the Later dayes.</p>
+               <p>Hovering up and downe the <hi>Countrey</hi> am<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngſt the Lay Committee: So that hee was taken for a little ſmall Prophet: But all this while <hi>Oxford</hi> remain'd his Antagoneſt and durſt not come there, which caus'd Him to his Power, to ſpit his Venome at that Town as formerly he did to the D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere: For at <hi>Enſtone</hi> in <hi>Oxfordſhire</hi> he preacht the Unniverſitie a prophane place, and ought to be refin'd and purged.</p>
+               <p>But that would not prevaile, hee was faine to quit the Towne and repaire to <hi>London,</hi> where at <hi>Biſhopſ<g ref="char:EOLhyphen"/>gate</hi> Church, hee preacht downe the Biſhops, rai<g ref="char:EOLhyphen"/>ſed Sectory, which too many were to prone for to follow.</p>
+               <p>But preſently then hee met with able Devines, which ſcorned to diſpute with ſuch a Quickſilver'd braine Fellow; Yet to pleaſe the People, and the ig<g ref="char:EOLhyphen"/>norant multitude were faine to argue, croſſe him, and thwart him, to beate downe <hi>Riſing</hi> ſedition.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. 4.</hi> How <hi>Peters</hi> being Confuted in <hi>London</hi> by ſome able Divines for his erronious Errors, did marry a wife and ſent her to <hi>Virginia</hi> and himſelfe to <hi>New Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </head>
+               <p>WEll then this contentious Hypocrite Seduc't a young Gentlemans daughter to Marry with
+<pb n="6" facs="tcp:119288:5"/>
+                  <!-- PDF PAGE 13 -->him: And not long he lived with her, but the Spi<g ref="char:EOLhyphen"/>rit of Cavalation ſtruck in betwixt them.</p>
+               <p>Then did he act <hi>Richard</hi> the 3<hi rend="sup">.d</hi>, Tis true hee did not breake her Necke, but he ſent her to <hi>Virginiae</hi> to be made a Slave on.</p>
+               <p>And went himſelfe to <hi>New-England,</hi> wherein hee continued three yeares, till the very Natives were faine to give him Money to be rid of him.</p>
+               <p>Then to <hi>England</hi> hee came againe, as the Proverb is, An Ill hearbe growes any where.</p>
+               <p>And juſt as the Warr's was broke out in Flames: this Atheiſt came again to lay more Fuell to the fire.</p>
+               <p>Preſently ſtrucke into the Army, got preferment <hi>Chaplin</hi> to the Lord <hi>Brookes</hi> his Regiment: At which time Newes was Novelties, and none could declare more in a private Alehouſe then Hee could in a pub<g ref="char:EOLhyphen"/>lique Pulpit: The ignotant did praiſe him, the lear<g ref="char:EOLunhyphen"/>ned deſpiſe him: So that hee was like the Fox, when once hee was well knowne Hee was faine to quit his Burough.</p>
+               <p>Even ſo hee qickly departed from <hi>Brookes,</hi> and fell into <hi>Fairfax</hi> Army, and there hee preacht, the Soul<g ref="char:EOLhyphen"/>diers into ſo much obedience, that they were ready to ſtone him away: Then he bethought himſelfe whoſe Pallat he could pleaſe beſt, that if any Devill was on Earth he would find him.</p>
+               <p>For Townes nor Cities would not entertaine him, he knew the Sea (or A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my) muſt ſo ſtricke into <hi>Oli<g ref="char:EOLhyphen"/>ver Cromwell,</hi> then Lieutenants Generall, where now wee will hunt him, like a Fox by the Smell.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="7" facs="tcp:119288:5"/>
+               <!-- PDF PAGE 13 -->
+               <head>
+                  <hi>CHAP. 5.</hi> How <hi>Peters</hi> got his Preferment with his Maſter <hi>Noll,</hi> and his going with him into <hi>Ireland.</hi>
+               </head>
+               <p>NOw Reader obſerve, that no ſooner had his Maſt<g ref="char:EOLhyphen"/>er and hee diſputed, but they were Haile-Fellow well met: <hi>trim tram,</hi> like Maſter like Man.</p>
+               <p>Now <hi>Oliver</hi> was ſubtile, and of the ſame kind <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> was, for in a Moneths time, hee found out what <hi>Peeters</hi> was, and <hi>Peeters</hi> what he was, ſo they became unto one another, as plyable as a clacke to a Mill-Wheele.</p>
+               <p>And <hi>Oliver</hi> made him not only his Chaplin but his privy Counſellour Varſooth.</p>
+               <p>Tooke him over to <hi>Ireland</hi> with him: For <hi>Oliver</hi> knew he was a Servant fit for his turne, and <hi>Peeters</hi> knew, hee was a Maſter for his: So a little before <hi>Tredath</hi> fight, <hi>Peters</hi> preacht to <hi>Oliver</hi> in the Camp, and quoted his Text in the 45. Pſalm, and part of the ſixt verſe, Thy arrowes are very ſharpe and the People ſhall be ſubdued unto thee: For truly ſaid hee <hi>Ichu</hi> deſtroyed the houſe of <hi>Ahab</hi> King of <hi>Iſraell</hi> even to that, which piſt againſt the Wall, for it was the work of the Lord, and thou which art going to doe this mighty worke, behave thy ſelfe like <hi>Maccabees,</hi> who ſlew of the Philiſtins in one day threeſcore and ten thouſand.</p>
+               <p>
+                  <pb n="8" facs="tcp:119288:6"/>
+                  <!-- PDF PAGE 14 -->
+Therefore ſmite them to the Earth and leave not one alive.</p>
+               <p>The Tyrant did as the Traytour had ſaid, and turn'd the City into ſtreames of blood: So this was his ſeventh horrid Act of Villany: From thence to <hi>England</hi> came againe: Becauſe many men to looſe their Eſtates, and this Hypocriticall <hi>Peeters</hi> was the firſt that transformed the Word from Malignant to Delinquent.</p>
+               <p>So after a great deale of Miſchiefe, the Parlia<g ref="char:EOLhyphen"/>ment were willing to bee ridde of them ſent them to <hi>Scotland;</hi> In which Travell two Soldiers being ſhort of money knockt a Gooſe in the Head, beſides having done ſome ſmall affront to <hi>Peeters</hi> before; Saying, hee was their holy divine Prophet: Which in troth they wronged him; He caus'd them to be hang'd for't, But <hi>Dunbar</hi> in <hi>Scotland, Edenborough, Fife</hi> and <hi>Ster<g ref="char:EOLhyphen"/>ling:</hi> For all his good deeds there, wee'l give him in to the Bargaine.</p>
+               <p>And diſcourſe of their horrid and deteſtable Plots in Counſell at the Caſtle of <hi>Windſor,</hi> laſtly at <hi>Ware.</hi>
+               </p>
+               <p>In which wee will ſhew the very eſſence of his Roguery, Villany, Ieſts and Miſchiefe.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. 6.</hi> How <hi>Peters</hi> and his Maſter <hi>Noll</hi> ſate in Counſell at <hi>Windſor</hi> and <hi>Ware,</hi> to contrive the Murder of the King, and diſſolution of the Parliament, thereby to aſſume the Power.</head>
+               <p>IN <hi>Windſor,</hi> hee and his Maſter ſate three Nights together up, to contrive for and how to uſurpe the
+<pb n="9" facs="tcp:119288:6"/>
+                  <!-- PDF PAGE 14 -->Government: The King being then at <hi>Holmby,</hi> by <hi>Peeters</hi> advice they pitcht upon a perfidious il-borne brat, one <hi>Ioyce</hi> to ſecure the King. Who did accor<g ref="char:EOLhyphen"/>dingly, after which they with-drew to <hi>Ware,</hi> where at diſtance from the Army in a Field by their ſelves Concluded, the King to bee Murdered, the Parlia<g ref="char:EOLhyphen"/>ment interupted, and <hi>Oliver</hi> to raigne Potentate, as hee confeſt when hee lay ſicke at <hi>Plimouth.</hi>
+               </p>
+               <p>Which was all accordingly done, but when the Houſe was interrupted, ſo many as were Secluded were put in Hell at <hi>Weſtminſter,</hi> in which place <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> ſtood with his Pen and Inke ro take a liſt how many they were; after preached a Sermon at St. <hi>Albones</hi> ſtouping in the Pulpit like an Actor in a play, which a great one in m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſchiefe, ſaid he had been in Hell, and there had ſeene a great many Parliament men; ſtill blinding the people, only to advance his Maſters intereſt.</p>
+               <p>Which being done, and all things accompliſhed, hee was inveſted in his throne of wickedneſſe, yet he would flout his Maſter, jeere his Competitors, ob<g ref="char:EOLhyphen"/>ject to all.</p>
+               <p>For in the Pulpit at <hi>White-Hall</hi> ſome perſons be<g ref="char:EOLhyphen"/>ing in the Chappell he did not affect, <hi>Heaſon</hi> was un<g ref="char:EOLhyphen"/>der the Gallery, <hi>Peters</hi> ſaid there ſate a blind Cobler had more grace in his face then any of them all.</p>
+               <p>At another time his Maſter askt him, what Col<g ref="char:EOLhyphen"/>ledge he received his Education in, he ſaid in <hi>Brazen-Nos'd</hi> Colledge.</p>
+               <p>His Maſter ſuppos'd he had jeer'd him of his Noſe, ſaid he was a Brazen nos'd fellow to anſwer him ſo;</p>
+               <p>
+                  <pb n="10" facs="tcp:119288:7"/>
+                  <!-- PDF PAGE 15 -->
+At another time in St. <hi>Iames</hi> his Parke being his Maſter in a Coach and hee on Horſe-back, it chanc't to raine, whereby his Maſter ſent him his owne Coat to preſerve him from the ſhower; <hi>Peters</hi> ſent him word again, he would not be in his Coat for 500. l.</p>
+               <p>See how the Traytor himſelfe did hint at the un<g ref="char:EOLhyphen"/>worthineſs of his Maſters cauſe.</p>
+               <p>Another time his Maſters Son <hi>Richard</hi> himſelfe and another Gentleman to the number of three, were at the <hi>Devill</hi> Taverne at Temple bar, fifteen Shillings being to pay, faith <hi>Richard</hi> would pay but his club, what but your club ſaid <hi>Peters.</hi>—Come hang it I'le pay my 3. Crownes, thats more ſpent in an houre then your Father could get eaſily in ſeaven yeares; but ſud<g ref="char:EOLhyphen"/>denly after <hi>Noll</hi> poſted away, <hi>Richard</hi> defeated, and <hi>Peters</hi> faine to ſhift for himſelfe.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. 7.</hi> How <hi>Peters</hi> after the Deceaſe of his wretched Maſter, and the totall Defeat of all his wicked Rabble was faine to ſhift for himſelfe, his narrow Eſcapes and Appre<g ref="char:EOLhyphen"/>henſion, with his going to Triall and from thence to the Gallowes.</head>
+               <p>NOw this miſerable Catiffe was in a worſe conditi<g ref="char:EOLhyphen"/>on then ever was <hi>Caine</hi> for ſleying his Brother <hi>Abell,</hi> then was he faine to ſhuffle and cut, and try his wits to the purpoſe, for hee knew the Game ſtood up<g ref="char:EOLhyphen"/>on his Life, but perceiving the game to be dangerous, reſolved the beſt way to play leaſt in ſight which hee did for a certaine while, but being cloſely purſued
+<pb n="11" facs="tcp:119288:7"/>
+                  <!-- PDF PAGE 15 -->and chaſed, he was conſtrained to take hold in <hi>South-warke,</hi> his dables being diſcovered, a Meſſenger was ſent to apprehend him; but hee like a Fox did ſoone quit his Borough, and ſo miſt for that time; but not long after he was taken and ſecured, though ſtrongly denyed he was not <hi>Peters;</hi> queſtionleſs a Fox if that he could ſpeake, to quit himſelfe from Death would ſweare hee was a Lambe; But <hi>Peters</hi> guilt and erro<g ref="char:EOLhyphen"/>neous actions could not appeare in the coat of Inno<g ref="char:EOLhyphen"/>cency, ſo forthwith was brought to the <hi>Tower,</hi> and a while after to <hi>Newgate</hi> and at the Old Baily tooke faire tryall before the Iudges, who gave him Sentence to be drawne from thence on a Sledge to <hi>Charing</hi>-Croſſe to be Hang'd, drawne and Quartered, which was done: and now his quarters hangs on the Gates, and his Head on <hi>London</hi>-Bridge, where wee will leave them to the Readers judgment, whether hee was more honoured in a Tyrants counſell, or on the Gibbet at <hi>Charing</hi>-croſſe.</p>
+               <p>So farewell to an unparalled Traytor ne<g ref="char:EOLhyphen"/>ver to be forgotten in the rolls of Infamie.</p>
+            </div>
+         </div>
+         <div type="epitaph">
+            <pb n="12" facs="tcp:119288:8"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <l>Good Sir forbeare who ere you are that laugh,</l>
+               <l>J needs muſt write <hi>Hugh Peters</hi> Epitaph:</l>
+               <l>J cannot ſay the Body lyeth here,</l>
+               <l>But point unto the Gates his Limbs are there.</l>
+            </head>
+            <head>The <hi>Epitaph.</hi>
+            </head>
+            <lg>
+               <l>IN ſtead of ſaying, in this place doth Lie,</l>
+               <l>I now muſt ſay upon the Gates on high</l>
+               <l>There hangs <hi>Hugh Peters</hi> Limbs, a Traytor that</l>
+               <l>Rebellion it ſelfe did ſtand amazed at:</l>
+               <l>To ſee ſuch Confidence in mortall Man,</l>
+               <l>Hard Natur'd, like unto a Flinty ſtone</l>
+               <l>Tuter'd in Cruell barbarous Tyrannie.</l>
+               <l>Like to the Imps in Hell are wont to be</l>
+               <l>Hot ſeared Conſcience to himſelfe alone,</l>
+               <l>Sprung from Mount <hi>Aetna's</hi> horrid burning Zone.</l>
+               <l>High piece of baſeneſs that preſum'd to tell</l>
+               <l>Newſes in Pulpits, as if he'd come from Hell,</l>
+               <l>No queſtion of it, for 'tis Certainly</l>
+               <l>None trod ſuch ſteps, none knew it ſo well as he.</l>
+               <l>Hee being <hi>Pluto's</hi> Chaplin needs could bring</l>
+               <l>Tydings from Hell to act againſt his King;</l>
+               <l>Grand piece of Impudence, that durſt to bee</l>
+               <l>Plung'd in that barbarons horrid Villanie.</l>
+               <l>Like to an Impious baſe prophane relector.</l>
+               <l>When hee was Chaplin to his Lord Protector.</l>
+               <l>Numerous more l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke this J ſhould rela<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Which hee did act aga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſt the Church and State;</l>
+               <l>For which the Ground did thinke him farre unfit,</l>
+               <l>His Duſty reliques ſhould compare with it.</l>
+               <l>
+                  <pb n="13" facs="tcp:119288:8"/>
+                  <!-- PDF PAGE 16 -->
+The Earth did ſcorne his Corpes though in a tombe</l>
+               <l>Should have a burying place within her wombe<g ref="char:punc">▪</g>
+               </l>
+               <l>Hold Muſe bee ſilent, for thou haſt done faire</l>
+               <l>And leave him on the Gates to Fowles of th'ayre,</l>
+            </lg>
+            <lg>
+               <l>Who ſcorne for to approach his filthy Tombe,</l>
+               <l>But what the Traytor — hee have done.</l>
+            </lg>
+            <closer>
+               <signed>T. H.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
